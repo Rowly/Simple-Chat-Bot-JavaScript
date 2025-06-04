@@ -42,7 +42,7 @@ function test() {
 
 	// write your code here
     let correct = 2;
-    console.log("What do we use methods?")
+    console.log("Why do we use methods?")
     console.log("1. To repeat a statement multiple times.");
     console.log("2. To decompose a program into several small subroutines.");
     console.log("3. To determine the execution time of a program.");
