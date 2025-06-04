@@ -14,3 +14,5 @@ build
 !/Simple Chat Bot (JavaScript)/task/
 /Simple Chat Bot (JavaScript)/task/*
 !/Simple Chat Bot (JavaScript)/task/main.js
+/node_modules
+/Topics
